@@ -39,7 +39,7 @@
 <br/>
 
 <a href="https://github.com/fkadeal">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fkadeal&theme=buefy&show_icons=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fkadeal&show_icons=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fkadeal&theme=buefy&layout=compact" />
 </a>
 
