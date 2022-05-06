@@ -2,6 +2,7 @@
 <h2> Hey there! I'm fkadeal.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
+
 - 🤔 &nbsp; Am Active Learner (AAL).
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studied Computer Science.
