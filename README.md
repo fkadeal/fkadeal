@@ -36,20 +36,21 @@
 
 <br/>
 
-<a href="https://fkadeal.com">
+<!-- <a href="https://fkadeal.com">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fkadeal&show_icons=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fkadeal&theme=buefy&layout=compact" />
 </a>
+-->
 
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="fkadeal.com"><img alt="Website" src="https://img.shields.io/badge/fkadeal-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://fkadeal.com"><img alt="Website" src="https://img.shields.io/badge/fkadeal-blue?style=flat-square&logo=google-chrome"></a>
   <a href="https://www.linkedin.com/in/fkadeal/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-fkadeal-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/infkadeal/"><img alt="Instagram" src="https://img.shields.io/badge/fkadeal-blue?style=flat-square&logo=instagram"></a>
-<a href="infkadeal@gmail.com"><img alt="Email" src="https://img.shields.io/badge/infkadeal@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mail:infkadeal@gmail.com"><img alt="Email" src="https://img.shields.io/badge/infkadeal@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️  
